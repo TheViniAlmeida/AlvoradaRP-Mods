@@ -1,0 +1,33 @@
+AddTextEntry("WEAPON_SKNIFE", "Faca de Pedra")
+AddTextEntry("WEAPON_PAN", "Panela")
+AddTextEntry("WEAPON_ADJUSTABLE_WRENCH", "Chave Inglesa Ajustável")
+AddTextEntry("WEAPON_FLATHEAD_SCREWDRIVER", "Chave Phillips")
+AddTextEntry("WEAPON_IMPACT_DRIVER", "Parafusadeira de Impacto")
+AddTextEntry("WEAPON_IMPACT_WRENCH", "Furadeira de Impacto")
+AddTextEntry("WEAPON_RATCHET_WRENCH", "Chave de Boca")
+AddTextEntry("WEAPON_CAST_IRON", "Panela de Ferro")
+AddTextEntry("WEAPON_CHEFS_KNIFE", "Faca de Chef")
+AddTextEntry("WEAPON_KETTLE", "Chaleira")
+AddTextEntry("WEAPON_LADLE", "Concha Funda")
+AddTextEntry("WEAPON_PEPPERMILL", "Moedor de Pimenta")
+AddTextEntry("WEAPON_ROLLING_PIN", "Rolo de Macarrão")
+AddTextEntry("WEAPON_SPATULA", "Espátula")
+AddTextEntry("WEAPON_WOK", "Frigideira WOK")
+
+AddTextEntry("WEAPON_LIGHTSABER_OBIWAN", "LIGHTSABER OBIWAN")
+AddTextEntry("WEAPON_LIGHTSABER_VADER", "LIGHTSABER VADER")
+AddTextEntry("WEAPON_LIGHTSABER_LUKE", "LIGHTSABER LUKE")
+AddTextEntry("WEAPON_LIGHTSABER_KYLO", "LIGHTSABER KYLO")
+AddTextEntry("WEAPON_TRIDENT", "TRIDENT")
+AddTextEntry("WEAPON_SLEDGEHAMMER", "SLEDGEHAMMER")
+AddTextEntry("WEAPON_MKATANA", "MECHA KATANA")
+AddTextEntry("WEAPON_LUCILLE", "LUCILLE")
+AddTextEntry("WEAPON_CAPSHIELD", "CAPTAIN SHIELD")
+AddTextEntry("WEAPON_MPICKAXE", "MINECRAFT PICKAXE")
+AddTextEntry("WEAPON_DILDOBAT", "CASSETETE PICA")
+
+AddTextEntry("WEAPON_RAINBOWSMASH", "Rainbow Smash Picaxe")
+AddTextEntry("WEAPON_CANDYAXE", "Candy Axe Picaxe")
+
+
+
