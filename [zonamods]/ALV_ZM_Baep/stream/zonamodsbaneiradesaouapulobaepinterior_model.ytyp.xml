@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="102.488" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.330566" y="-0.224121" z="-0.267578" />
+      <bbMax x="0.205566" y="0.304688" z="2.96289" />
+      <bsCentre x="-0.0625" y="0.0402832" z="1.34766" />
+      <bsRadius value="1.65854" />
+      <hdTextureDist value="76.8659" />
+      <name>zonamodsbaneiradesaouapulobaepinterior_model</name>
+      <textureDictionary>zonamodsbaneiradesaouapulobaepinterior_model</textureDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <physicsDictionary>zonamodsbaneiradesaouapulobaepinterior_col</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>zonamodsbaneiradesaouapulobaepinterior_model</assetName>
+      <extensions />
+    </Item>
+  </archetypes>
+  <name>zonamodsbaneiradesaouapulobaepinterior_model</name>
+  <dependencies />
+  <compositeEntityTypes />
+</CMapTypes>
